@@ -1,0 +1,13 @@
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Debug\ModBusMasterChecK.exe.config
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Debug\ModBusMasterChecK.exe
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Debug\ModBusMasterChecK.pdb
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Debug\ModBusMasterChecK.Form1.resources
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Debug\ModBusMasterChecK.Properties.Resources.resources
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Debug\ModBusMasterChecK.csproj.GenerateResource.cache
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Debug\ModBusMasterChecK.csproj.CoreCompileInputs.cache
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Debug\ModBusMasterChecK.exe
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Debug\ModBusMasterChecK.pdb
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Debug\EasyModbus.dll
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Debug\MetroSet UI.dll
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Debug\EasyModbus.xml
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Debug\ModBusMasterChecK.csproj.CopyComplete

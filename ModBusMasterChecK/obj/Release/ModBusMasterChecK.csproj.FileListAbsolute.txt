@@ -1,0 +1,13 @@
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Release\ModBusMasterChecK.exe.config
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Release\ModBusMasterChecK.exe
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Release\ModBusMasterChecK.pdb
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Release\EasyModbus.dll
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Release\MetroSet UI.dll
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\bin\Release\EasyModbus.xml
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Release\ModBusMasterChecK.Form1.resources
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Release\ModBusMasterChecK.Properties.Resources.resources
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Release\ModBusMasterChecK.csproj.GenerateResource.cache
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Release\ModBusMasterChecK.csproj.CoreCompileInputs.cache
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Release\ModBusMasterChecK.csproj.CopyComplete
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Release\ModBusMasterChecK.exe
+D:\Facultate\Master\Anul II\Managementul Proiectelor Software\Proiect\Aplicatie Master ModBus\ModBusMasterChecK\ModBusMasterChecK\obj\Release\ModBusMasterChecK.pdb
